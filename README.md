@@ -5,6 +5,9 @@ This utility connects directly to AEP Query Service (Postgres interface), identi
 
 > Note: This is a first working draft. It solves the core use case but is not production-hardened.
 
+<img width="758" height="1304" alt="image" src="https://github.com/user-attachments/assets/aece1db0-328b-409f-9252-f6055c55c1f7" />
+
+
 ---
 
 ## Features
