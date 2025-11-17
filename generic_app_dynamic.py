@@ -1,11 +1,11 @@
 #!/usr/bin/env python3
-# app_dynamic_generic.py
+# generic_app_dynamic.py
 """
 Streamlit app - dynamic scanner that discovers nested fields under any chosen root column.
 
 Usage:
   pip install streamlit pandas psycopg2-binary
-  streamlit run app_dynamic_generic.py
+  streamlit run generic_app_dynamic.py
 """
 
 import streamlit as st
